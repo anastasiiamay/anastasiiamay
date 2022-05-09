@@ -1,6 +1,4 @@
-- 👋 Привет, я @anastasiiamay
-- 🖥️ Программирование для меня - то самое хобби, за которое можно получать деньги
-- 🎓 Бакалавр компьютерных наук, будущий магистр
+👋 Привет, я @anastasiiamay
 
 <!---
 anastasiiamay/anastasiiamay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
